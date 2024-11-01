@@ -1,0 +1,1 @@
+# Django-Mid-2024-Edge
